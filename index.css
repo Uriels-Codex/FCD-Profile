@@ -1,4 +1,4 @@
-/* Global fonts */
+
 * {
     font-family: "Roboto", sans-serif;
 }
@@ -7,7 +7,7 @@ h1, p {
     font-family: "Montserrat", sans-serif;
 }
 
-/* Landing section */
+
 #landing {
     height: 85vh;
     display: flex;
@@ -21,7 +21,7 @@ h1, p {
                       radial-gradient(circle at center, #008cff 0%, #0051a8 70%);
 }
 
-/* Profile picture */
+
 #profile {
     height: 250px;
     width: 250px;
@@ -29,7 +29,6 @@ h1, p {
     margin-top: 20px;
 }
 
-/* Make success button visible */
 .btn-success {
     background-color: #28a745 !important;
     color: white !important;
@@ -38,7 +37,6 @@ h1, p {
     font-size: 1.2rem;
 }
 
-/* Footer */
 footer {
     background-color: rgba(0, 0, 0, 0.4);
     display: flex;
@@ -50,7 +48,6 @@ footer {
     width: 100%;
 }
 
-/* Icons */
 footer i {
     color: white;
     margin: 0 12px;
@@ -60,3 +57,4 @@ footer i {
 footer i:hover {
     color: #cccccc;
 }
+
